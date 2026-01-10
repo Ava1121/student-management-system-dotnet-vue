@@ -1,0 +1,19 @@
+@baseUrl = http://localhost:5005/api
+
+### 获取所有学生
+GET {{baseUrl}}/Student
+Content-Type: application/json
+
+### 创建学生
+POST {{baseUrl}}/Student
+Content-Type: application/json
+
+{
+  "name": "张三",
+  "age": 20,
+  "email": "zhangsan@example.com"
+}
+
+### 获取单个学生
+GET {{baseUrl}}/Student/1
+Content-Type: application/json
