@@ -218,7 +218,7 @@
 
 如有问题或建议，欢迎通过以下方式联系：
 - GitHub Issues：[提交Issue](https://github.com/Ava1121/student-management-system-dotnet-vue/issues)
-- 邮箱：your-email@example.com
+- 邮箱：282108647@qq.com
 
 ---
 
